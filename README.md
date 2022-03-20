@@ -4,4 +4,4 @@
 
  Get local text file contents and covert to JavaScript array
 
- > demo link : https://wastu01.github.io/Javascript-Random-from-array/
+ 預覽 : [https://wastu01.github.io/Javascript-LocalFile-to-array/](https://wastu01.github.io/Javascript-LocalFile-to-array/)
